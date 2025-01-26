@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://www.ias.informatik.tu-darmstadt.de/'>Intelligent Autonomous Systems</a>, TU Darmstadt
+subtitle: Incoming PhD Student at <a href='https://www.ias.informatik.tu-darmstadt.de/'>Intelligent Autonomous Systems</a>, TU Darmstadt
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a robotics engineer and an incoming PhD student at the [Intelligent Autonomous Systems](https://www.ias.informatik.tu-darmstadt.de/) at TU Darmstadt. I am interested in the fields of robotics, reinforcement learning, imitation learning, and decision-making in partially observable and multi-agent settings.
+I am a robotics engineer and an incoming PhD student at the [Intelligent Autonomous Systems](https://www.ias.informatik.tu-darmstadt.de/) group at TU Darmstadt. I am interested in the fields of robotics, reinforcement learning, imitation learning, and decision-making in partially observable and multi-agent settings.
 
 I received my MSc. in Robotics with cum laude honours from TU Delft where I worked on generative imitation learning techniques under the supervision of [Prof. Jens Kober](http://jenskober.de/). In the past, I have held research positions in graph-based ML at the Robert Bosch Center For Data Science & AI at IIT Madras and have also interned in multi-agent coordination at Bosch Research. 
 
