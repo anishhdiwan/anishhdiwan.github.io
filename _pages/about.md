@@ -11,7 +11,7 @@ profile:
   # more_info: >
   #   <p>anishhdiwan@gmail.com</p>
   #   <p><a href=https://www.linkedin.com/in/anishdiwan/>LinkedIn</a></p><br>
-  #   <p><a href=https://github.com/anishhdiwan>Github</a></p><br>
+  #   <p><a href=https://github.com/anishhdiwan/>Github</a></p><br>
   #   <p><a href=https://anishhdiwan.github.io/notes/>Notes</a></p>(blog)
 
 news: true # includes a list of news items
@@ -27,5 +27,5 @@ In my spare time, I love photography and music. I also run an [academic blog](ht
 
 **Email:** anishhdiwan@gmail.com
 
-**Socials:**  [LinkedIn](https://www.linkedin.com/in/anishdiwan/) | [GitHub](https://github.com/anishhdiwan>) | [Notes](https://anishhdiwan.github.io/notes/)
+**Socials:**  [LinkedIn](https://www.linkedin.com/in/anishdiwan/) | [GitHub](https://github.com/anishhdiwan/) | [Notes](https://anishhdiwan.github.io/notes/)
 <br>
