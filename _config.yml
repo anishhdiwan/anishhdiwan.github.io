@@ -3,13 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
+tagline: machine learning & robotics
 first_name: Anish
 middle_name:
 last_name: Diwan
 contact_note: >
   I would love to hear from you. The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal website.
+  I am a robotics researcher interested in the fields of machine learning, reinforcement learning, imitation learning, and decision-making in partially observable and multi-agent settings.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -233,6 +234,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:
