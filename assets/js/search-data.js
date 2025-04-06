@@ -29,8 +29,8 @@ ninja.data = [{
           section: "News",},{id: "news-my-msc-thesis-was-accepted-at-iclr-2025-page-facing-up",
           title: 'My MSc. thesis was accepted at ICLR 2025 :page_facing_up:',
           description: "",
-          section: "News",},{id: "news-i-will-soon-start-my-phd-in-robot-learning-at-ias-tu-darmstadt",
-          title: 'I will soon start my PhD in robot learning at IAS, TU Darmstadt!...',
+          section: "News",},{id: "news-i-started-my-ph-d-in-robot-learning-at-ias-tu-darmstadt",
+          title: 'I started my Ph.D. in robot learning at IAS, TU Darmstadt!',
           description: "",
           section: "News",},{
       id: 'light-theme',
