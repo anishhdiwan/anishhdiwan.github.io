@@ -26,8 +26,12 @@ I received my MSc. in Robotics with cum laude honours from TU Delft where I work
 In my spare time, I love photography and music. I also run an [academic blog](https://anishhdiwan.github.io/notes/) where I share archives of my lecture notes, paper summaries, and misc. ideas on robotics/ML.
 
 **Email:** anish.diwan [at] robot-learning [dot] de  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; diwan [at] ias.informatik.tu-darmstadt [dot] de
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; diwan [at] ias.informatik.tu-darmstadt [dot] de  
 
 **Socials:**  [LinkedIn](https://www.linkedin.com/in/anishdiwan/) | [GitHub](https://github.com/anishhdiwan/) | [Notes](https://anishhdiwan.github.io/notes/)
+<br>
+
+**📢 New MSc. Thesis Opening 📢** 
+
+We're looking for a new master thesis student! The thesis will explore scalable methods for <u> decision-making in large POMDPs using learnt belief representations for efficient belief propagation </u>. Feel free to email me or check out the topic [Learning Beliefs & Policies in Large POMDPs](https://www.ias.informatik.tu-darmstadt.de/Theses/OpenTopics) on our website.
 <br>
