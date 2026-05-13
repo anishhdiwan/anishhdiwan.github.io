@@ -9,3 +9,11 @@
 "urain":
   - firstname: ["Julen", "Urain", "Julen Urain"]
     url: https://robotgradient.com/
+
+"arenz":
+  - firstname: ["Oleg", "Arenz", "Oleg Arenz"]
+    url: https://www.ias.informatik.tu-darmstadt.de/Team/OlegArenz
+
+"tateo":
+  - firstname: ["Davide", "Tateo", "Davide Tateo"]
+    url: https://www.ias.informatik.tu-darmstadt.de/Team/DavideTateo
