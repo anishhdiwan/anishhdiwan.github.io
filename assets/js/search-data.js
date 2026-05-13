@@ -32,6 +32,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-started-my-ph-d-in-robot-learning-at-ias-tu-darmstadt",
           title: 'I started my Ph.D. in robot learning at IAS, TU Darmstadt!',
           description: "",
+          section: "News",},{id: "news-i-will-attend-the-rl-summer-school-2026",
+          title: 'I will attend the RL Summer School 2026!',
+          description: "",
+          section: "News",},{id: "news-new-paper-trust-region-irl-was-accepted-at-icml-2026-page-facing-up",
+          title: 'New Paper: Trust Region IRL was accepted at ICML 2026 :page_facing_up:',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
