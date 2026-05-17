@@ -26,6 +26,6 @@ I received my MSc. in Robotics with cum laude honours from TU Delft where I work
 **Email:** anish.diwan [at] robot-learning [dot] de  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; anish.diwan [at] tu-darmstadt [dot] de  
 
-**Socials:**  [LinkedIn](https://www.linkedin.com/in/anishdiwan/) | [GitHub](https://github.com/anishhdiwan/) | [Notes](https://anishhdiwan.github.io/notes/)
+**Socials:**  [LinkedIn](https://www.linkedin.com/in/anishdiwan/) | [GitHub](https://github.com/anishhdiwan/) | [Scholar](https://scholar.google.com/citations?hl=en&user=S3otAI0AAAAJ) | [Notes](https://anishhdiwan.github.io/notes/)
 <br>
 <br>
