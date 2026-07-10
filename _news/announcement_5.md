@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**New Paper:** Trust Region IRL was accepted at ICML 2026 :page_facing_up:   
+**New Paper:** [Trust Region IRL](https://arxiv.org/pdf/2605.11020) was accepted at ICML 2026 :page_facing_up:   

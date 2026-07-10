@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at <a href='https://www.ias.informatik.tu-darmstadt.de/'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>anishhdiwan@gmail.com</p>
