@@ -38,6 +38,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-trust-region-irl-was-accepted-at-icml-2026-page-facing-up",
           title: 'New Paper: Trust Region IRL was accepted at ICML 2026 :page_facing_up:',
           description: "",
+          section: "News",},{id: "news-i-gave-an-invited-talk-titled-learning-to-imitate-by-inferring-informative-data-driven-reward-functions-at-the-robot-learning-lab-rllab-at-seoul-national-university-joe-watson-and-i-organized-the-robot-learning-social-at-icml-2026",
+          title: 'I gave an invited talk titled Learning to Imitate by Inferring Informative, Data-Driven...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
